@@ -9,7 +9,10 @@
 - **Big Data & ML:** Apache Spark, Hadoop, Hive, Presto/Trino  
 - **Cloud & Infrastructure:** AWS, Oracle Cloud, Kubernetes, Docker  
 - **Databases:** PostgreSQL, Oracle Autonomous Database  
-- **Tools & Frameworks:** Microservices, CI/CD, Kafka  
+- **Tools & Frameworks:** Microservices, CI/CD, Kafka
+
+## 💡 Community Contributions  
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4758823/som) 
 
 ## 📌 Featured Projects  
 - **[Real-time ML Pipelines](#)** – Optimized Spark ML pipelines with 80%+ accuracy and 30% runtime reduction  
